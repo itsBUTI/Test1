@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { Instagram, Facebook, Menu, X, Phone, Clock3, MapPin } from 'lucide-react';
-import logo from '/src/images/autosallon-logo.jpg';
+import logo from '/images/autosallon-logo.jpg';
 
 const navLinks = [
   { href: '/', label: 'Ballina' },
