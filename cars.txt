@@ -1,0 +1,18 @@
+Get more info on these cars add them to the webpage edit everything profesionaly and put these cars in a way as a highend luxury dealerhsip website will have them also do the full website in albainain in stead of english
+autosallon-logo.jpg is gona be the logo of the site    
+
+AUDI A6 2.0 TDI ULTRA AUTOMATIK
+BMW X6 M50D XDRIVE 381PS 2016
+MERCEDES-BENZ GLC250CDI 4MATIC 
+VW TOURAN 2.0 TDI DSG 2016 HIGHLINE
+AUDI Q2 2.0 TDI QUATTRO STRONIC 2016
+AUDI Q5 2.0 TDI QUATTRO FACELIFT 2016
+VW PASSAT 2.0 TDI DSG FACELIFT 2021
+AUDI A1 SPORTBACK 30TFSI AUTOMATIK 2019
+AUDI A4 2.0 TDI S-LINNE AUTOMATIK 2014
+VW PASSAT B8 1.6 TDI DSG 115PS 2016
+    +383 (0) 44 316 881
+    +383 (0) 49 316 881
+    autosallonibmw@gmail.com
+    these cars you have in .src.images these folder you have car name side1 front side 2 
+    firstly the cars shpuld be in thre grid then first car should show side 2 second one postiond in middle front and the other car showing side2 then also the pictures would chagne and add data-aos fadeup animation make the site fully responsive in detailes everything add the part where you can touch the car and open a detaild page where you show the pictures specifications a cta and similar vihecels
